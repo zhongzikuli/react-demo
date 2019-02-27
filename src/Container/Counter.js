@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import Counter from '../Component/Counter';
 
-import {increment,decrement} from '../Redux/Action'
+import {increment,decrement} from '../Redux/action'
 import {connect} from 'react-redux';
 
 
