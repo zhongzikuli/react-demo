@@ -5,7 +5,7 @@
 react + redux + less + ES6/7 + webpack
 
 ## 下载
-  git clone https://github.com/jeromehan/react-demo.git
+  git clone https://github.com/zhongzikuli/react-demo.git
 
  	cd react-demo
 
